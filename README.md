@@ -1,6 +1,3 @@
-# HisnElMuslim
-This repos contains the whole book of HisnElMuslim as a JSON file.
-
 # حصن المسلم
 يحتوي هذا المشروع على ملف 'جيسون' به كلّ الأذكار المصنّفة في كتاب: حصن المسلم للفقير إلى اللّه تعالى: سعيد بن عليّ بن وهف القحطاني.
 
@@ -13,3 +10,6 @@ Levenshtein distance: https://en.wikipedia.org/wiki/Levenshtein_distance
 # التّبليغ عن الأخطاء
 محاولتي التأكّد من خلوّ هذا العمل من الأخطاء، فهو عمل بشري غير كامل، لذلك في حالة وجود أيّة أخطاء في الأذكر يرجى التبليغ عنها في المكان المخصّص لها في هذا المشروع:  
 https://github.com/asellam/HisnElMuslim/issues/new
+
+# HisnElMuslim
+This repos contains the whole book of HisnElMuslim as a JSON file.
