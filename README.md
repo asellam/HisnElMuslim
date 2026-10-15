@@ -13,3 +13,17 @@ https://github.com/asellam/HisnElMuslim/issues/new
 
 # HisnElMuslim
 This repos contains the whole book of HisnElMuslim as a JSON file.
+# عناوين الأبواب بالإنجليزيّة
+يحتوي الملفّ `titles_en.json` على ترجمة إنجليزيّة لعناوين الأبواب الـ133، مفهرسةً بالعنوان العربيّ كما هو في `hisn.json` وبنفس الترتيب. الأذكار نفسها غير مترجمة، و`hisn.json` لم يتغيّر.
+
+## English chapter titles
+`titles_en.json` maps each of the 133 chapter titles in `hisn.json` (the exact Arabic key, in the book's order) to a short English title, so apps can show English chapter names without changing `hisn.json`:
+
+```json
+{
+  "أَذْكَارُ الِاسْتِيقَاظِ مِنَ النَّوْمِ": "When waking up",
+  "دُعَاءُ لُبْسِ الثَّوْبِ": "When putting on clothes"
+}
+```
+
+Only the chapter titles are translated; the adhkar themselves are not. The titles were translated directly from the Arabic headings and are offered for review.
